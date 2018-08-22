@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

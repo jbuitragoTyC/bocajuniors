@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-ui-2.7.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f0f4eb297197df6e3dfe112a089374a77c62d973/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f0f4eb297197df6e3dfe112a089374a77c62d973/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

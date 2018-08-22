@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/jbuitrago/.android/build-cache/8a2fdfbe59e5a0f1af1783a9406c3bfcb9638f4c/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/jbuitrago/.android/build-cache/8a2fdfbe59e5a0f1af1783a9406c3bfcb9638f4c/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/jbuitrago/.android/build-cache/57eab1f23d096341a1dc8b1b12d107d682959eff/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jbuitrago/.android/build-cache/4e6296621dc4f7634d70579b9017ed0fe709d502/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jbuitrago/.android/build-cache/8362e51926fc436245c3008bbfe811fdd21f42bb/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jbuitrago/.android/build-cache/120f149bdc7929145905bdd2caf26cb9508857a8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jbuitrago/.android/build-cache/3398ecfea8ba38eec031ba5fef9c6167cf315135/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jbuitrago/.android/build-cache/b0a32ffc6a1deef9c5a335b3cfe3e1d92f736d39/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jbuitrago/.android/build-cache/82530f4096029c8121091b74b3e9e688f39d57c9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/jbuitrago/.android/build-cache/ad2b335e623ccf4555eb11e09f63d171d1450cf5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jbuitrago/.android/build-cache/93169cc2823fd611a91e94ab756cb5e87f4a4aec/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/jbuitrago/.android/build-cache/9cbb0e3ddbba453c64fc2562b626224a70cd2a55/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/jbuitrago/.android/build-cache/6057ea785eac28c771c81ca6fcc9e1d0ab46b716/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.bocajuniors.MainActivity
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /home/jbuitrago/.android/build-cache/8a2fdfbe59e5a0f1af1783a9406c3bfcb9638f4c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/jbuitrago/.android/build-cache/57eab1f23d096341a1dc8b1b12d107d682959eff/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jbuitrago/.android/build-cache/4e6296621dc4f7634d70579b9017ed0fe709d502/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jbuitrago/.android/build-cache/8362e51926fc436245c3008bbfe811fdd21f42bb/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jbuitrago/.android/build-cache/120f149bdc7929145905bdd2caf26cb9508857a8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jbuitrago/.android/build-cache/3398ecfea8ba38eec031ba5fef9c6167cf315135/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jbuitrago/.android/build-cache/b0a32ffc6a1deef9c5a335b3cfe3e1d92f736d39/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jbuitrago/.android/build-cache/82530f4096029c8121091b74b3e9e688f39d57c9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/jbuitrago/.android/build-cache/ad2b335e623ccf4555eb11e09f63d171d1450cf5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jbuitrago/.android/build-cache/93169cc2823fd611a91e94ab756cb5e87f4a4aec/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/jbuitrago/.android/build-cache/bfbeafce0a06b6e5ac158d8a363d1e88e28d0285/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/jbuitrago/.android/build-cache/8a1e8197dbae5fc18bc7b5a06c9b9e7f7a1f5412/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/jbuitrago/.android/build-cache/8a4ac086b94aa5b381a23f77c876c789b398aa11/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/jbuitrago/.android/build-cache/df698c66ac2f9b8532a097a38753ea4d686be15e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/jbuitrago/.android/build-cache/6638128aec5da2c46480bfe0422cb9140a96aa9b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/jbuitrago/.android/build-cache/94678a317fd763e48b4aa5e0f73e42bfb6c603f2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/jbuitrago/.android/build-cache/27257f96f4baca4af82112364d2999da6d6344b0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/jbuitrago/.android/build-cache/9cbb0e3ddbba453c64fc2562b626224a70cd2a55/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/jbuitrago/.android/build-cache/57eab1f23d096341a1dc8b1b12d107d682959eff/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jbuitrago/.android/build-cache/4e6296621dc4f7634d70579b9017ed0fe709d502/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jbuitrago/.android/build-cache/8362e51926fc436245c3008bbfe811fdd21f42bb/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jbuitrago/.android/build-cache/120f149bdc7929145905bdd2caf26cb9508857a8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jbuitrago/.android/build-cache/3398ecfea8ba38eec031ba5fef9c6167cf315135/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jbuitrago/.android/build-cache/b0a32ffc6a1deef9c5a335b3cfe3e1d92f736d39/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jbuitrago/.android/build-cache/82530f4096029c8121091b74b3e9e688f39d57c9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/jbuitrago/.android/build-cache/ad2b335e623ccf4555eb11e09f63d171d1450cf5/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jbuitrago/.android/build-cache/93169cc2823fd611a91e94ab756cb5e87f4a4aec/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jbuitrago/.android/build-cache/93169cc2823fd611a91e94ab756cb5e87f4a4aec/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jbuitrago/.android/build-cache/93169cc2823fd611a91e94ab756cb5e87f4a4aec/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

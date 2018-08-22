@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/jbuitrago/ReactNative/bocajuniors/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

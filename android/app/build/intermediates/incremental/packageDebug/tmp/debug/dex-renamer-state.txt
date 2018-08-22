@@ -1,0 +1,4 @@
+#Tue Aug 21 11:21:35 ART 2018
+base.0=/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/transforms/dexMerger/debug/33
+path.0=classes.dex
+renamed.0=classes.dex
