@@ -7,12 +7,11 @@ import {
 
 
 const LocalImage = ({source, originalWidth, originalHeight}) => {
-  let windowWidth = Dimensions.get('window').width
-  let widthChange = (windowWidth-16)/originalWidth
-  let newWidth = originalWidth * widthChange
-//  let newHeight = originalHeight * widthChange
+  const dimensions = Dimensions.get('window');
+  const imageHeight = Math.round(dimensions.width * 9 / 16);
+  const imageWidth = dimensions.width;
   return (
-    <Image source={source} style={{width: newWidth, height: newHeight}}/>
+    <Image source={source} style={{ height: imageHeight, width: imageWidth }}/>
   )
 }
 

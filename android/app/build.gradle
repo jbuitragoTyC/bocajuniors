@@ -95,9 +95,10 @@ def enableProguardInReleaseBuilds = false
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        applicationId "com.bocajuniors"
+        applicationId "com.bocajuniors_test"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -115,7 +116,7 @@ android {
                 keyPassword MYAPP_RELEASE_KEY_PASSWORD
             }
         }
-    }
+    }    
     splits {
         abi {
             reset()
@@ -144,11 +145,9 @@ android {
             }
         }
     }
-    buildToolsVersion '27.0.3'
 }
 
 dependencies {
-    compile project(':react-native-video')
     compile fileTree(dir: "libs", include: ["*.jar"])
     compile "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
     compile "com.facebook.react:react-native:+"  // From node_modules

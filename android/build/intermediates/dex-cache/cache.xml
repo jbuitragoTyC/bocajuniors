@@ -3,102 +3,273 @@
 
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/1c79bb71dadd47591cf02774edc8f560c16f905c/output/jars/classes.jar"
+        jar="/home/jbuitrago/.android/build-cache/8a1e8197dbae5fc18bc7b5a06c9b9e7f7a1f5412/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="effa31b9150eed30c7bdd455cec8448f58922cc1">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_d335532f3d8f16adfe5bbfb836709028542d9e43.jar" />
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_0f71da6481770c768b08613134270976d5a2dda8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/8a2fdfbe59e5a0f1af1783a9406c3bfcb9638f4c/output/jars/classes.jar"
+        jar="/home/jbuitrago/.android/build-cache/8362e51926fc436245c3008bbfe811fdd21f42bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_50a16ac3d3a0c6a19998393d596ee5773d8d5804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/120f149bdc7929145905bdd2caf26cb9508857a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_49ff117e778dcca3a52b0d965defbd25e29c5187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8c4ef0e9f9e6e8d256072c706ac5c6537c1a205b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/4e6296621dc4f7634d70579b9017ed0fe709d502/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_f6685586aa01a9d701009437aeeb7ece7927a7fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/6638128aec5da2c46480bfe0422cb9140a96aa9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_0f1e2f9e3d61b7a87e1634335ba2d929a2ddce35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/57eab1f23d096341a1dc8b1b12d107d682959eff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_53e5452dead724f988fc85970f153de6469c6aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/94678a317fd763e48b4aa5e0f73e42bfb6c603f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_3b9547c4d927a6f9c0280c698205fd81258b561e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/9cbb0e3ddbba453c64fc2562b626224a70cd2a55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_a2d66d5bacd14e178da53a68328da4540f6648b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/8a4ac086b94aa5b381a23f77c876c789b398aa11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_8b37144dd6092c79abe057b40c7e4e4acab5859a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_4a1d468eed97a56a399f45f5c5403bc7fa4a3d70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/df698c66ac2f9b8532a097a38753ea4d686be15e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_8b9c31ec59751a682584c533b5920111d230dc1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_3fb0272d4649c461b3a66bad2a1d8b3ca692ab02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/b0a32ffc6a1deef9c5a335b3cfe3e1d92f736d39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_2c829f8dd91727fa5c551ea9e8ff4d7b939603d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/82530f4096029c8121091b74b3e9e688f39d57c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_19c6f2b0d5413d3fa687225b8309a7b3c078dc7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ff3103d3adbc3d7b7d5f7164d9dfa57f873d840f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_a02f1ac6e63062e80587b005e91ecad99bd3d57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/827bdd4788ed8ab4326c903b9c8430ac8cd5eb92/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_3266135cfa2aac488d99e4a04a755e85b9271481.jar" />
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_7d6a6a91085c42999b4e279ad6cd7064d2662fb4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.0_5013049c891524e3d11ba2017d092995505aecbf.jar" />
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_91240dea5be2648b5ae717e2b0cc297aea82c850.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/a5c421b2ea0dbe93935282738cfce74d873f1f5b/output/jars/classes.jar"
+        jar="/home/jbuitrago/.android/build-cache/3398ecfea8ba38eec031ba5fef9c6167cf315135/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_5ded659fad008fbd10b3c703b49cbf153b28f5a1.jar" />
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_2ef5cb0fc7839f7191a8e794ebae18deb97a76f5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/b8215210db401bf72b0d87dd78c6ee4fbffb1733/output/jars/classes.jar"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="8c57f428f82d1accd3d84d9d7fcae183ed94297f">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_8b05c825badfe22cb49b34fe93856ee6f989a04c.jar" />
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_1645bc5eacd8a426842c685eca215849fe01d241.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/f0f4eb297197df6e3dfe112a089374a77c62d973/output/jars/classes.jar"
+        jar="/home/jbuitrago/.android/build-cache/bfbeafce0a06b6e5ac158d8a363d1e88e28d0285/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="0a87d85ec555546221e6d809e7fe70aa09c11063">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_7b47c8751ddea7978a340870e5cae0b50a2c0082.jar" />
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_93401bae9b846c4ab03f96bed0e9b53843ac33df.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/ReactNative/bocajuniors/node_modules/react-native-video/android-exoplayer/build/intermediates/bundles/default/classes.jar"
+        jar="/home/jbuitrago/.android/build-cache/27257f96f4baca4af82112364d2999da6d6344b0/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="b18f9e29f6610d6c992ae27157ab39c0a37f27c2">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_ea71f6c7a85a1fe1a681a4c9194d0800b790cac4.jar" />
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_be98bb752d2a16afe4050a344265d7e401176bfc.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/2360b92c4e692d44a9e2818784955d9e3a6a1d14/output/jars/classes.jar"
+        jar="/home/jbuitrago/.android/build-cache/93169cc2823fd611a91e94ab756cb5e87f4a4aec/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="aafed85e21a4daacd152f5f8d44bb61cd35e6359">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_b6920e3b7d2ce09034aa3a1f2089a552cb747a7e.jar" />
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_0f9d3b61bfd8747a01f5a50950ce8d9bc1afba3f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/0eb2fa1aa4e89401082efadb276a038818b33c6d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="cc0260762808f1e9244fa3a1aa53c4a140208af5">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_807293c18a497e20119b98d1455aac1bc3626077.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/8a2fdfbe59e5a0f1af1783a9406c3bfcb9638f4c/output/jars/libs/infer-annotations-4.0.jar"
+        jar="/home/jbuitrago/.android/build-cache/827bdd4788ed8ab4326c903b9c8430ac8cd5eb92/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e6064bab4e652c37fcfa1e860a476de19e8e793c.jar" />
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_036ae0c6cdc00e72dd5b7c7315dd253c379ed21f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/jbuitrago/.android/build-cache/769028b9df163fe69343825eaf96522d33b5240e/output/jars/classes.jar"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="fc90669423ccb16c7cf005bccb3d5ffeb8730659">
-        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_ca91c72b006e285be876e164771d10a0251b8531.jar" />
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_4912748d47bed3461361f903c93caacf3ed1fa84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/ad2b335e623ccf4555eb11e09f63d171d1450cf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_1027de406d7851608022630c9ab8b5933f41b286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_c41f66a2b027c8e8787bcd5599ce100d713d5955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/classes_eeaa46c7154a645d97d19000b7a2c3f693a1ad1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jbuitrago/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_067e1c2ec005f6a744f8f465b98e1193313915fd.jar" />
     </item>
 
 </items>

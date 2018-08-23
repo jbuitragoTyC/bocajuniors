@@ -13,7 +13,8 @@ import {
   Thumbnail,
   Title,
   Card,
-  CardItem
+  CardItem,
+  View
  } from 'native-base';
 
 import { Image, Dimensions } from 'react-native';
@@ -32,12 +33,14 @@ export default class New extends Component {
     let i = this.props.i;
     let list="";
     return (
-
+      <View>
+      <Text>{item.title}</Text>
     <LocalImage
       source={{uri:  item.media_group[0].media_item[0].src}}
       originalWidth={50}
       originalHeight={50}
     />
+    </View>
       );
   }
 

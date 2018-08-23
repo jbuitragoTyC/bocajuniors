@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
-        "source": "/home/jbuitrago/.android/build-cache/ad2b335e623ccf4555eb11e09f63d171d1450cf5/output/res/drawable-v21/notification_action_background.xml"
-    },
-    {
-        "merged": "/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/res/drawable-v21/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "merged": "/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
         "source": "/home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "merged": "/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/jbuitrago/.android/build-cache/0a446cafa35719c64182cfca2c2212d296ba4321/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/jbuitrago/ReactNative/bocajuniors_test/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/jbuitrago/.android/build-cache/ad2b335e623ccf4555eb11e09f63d171d1450cf5/output/res/drawable-v21/notification_action_background.xml"
     }
 ]
