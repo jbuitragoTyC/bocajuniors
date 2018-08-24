@@ -1,4 +1,4 @@
-package com.bocajuniors_test;
+package com.bocajuniors;
 
 import android.app.Application;
 

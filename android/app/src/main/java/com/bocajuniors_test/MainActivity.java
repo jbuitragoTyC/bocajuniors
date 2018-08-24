@@ -1,4 +1,4 @@
-package com.bocajuniors_test;
+package com.bocajuniors;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "bocajuniors_test";
+        return "bocajuniors";
     }
 }
