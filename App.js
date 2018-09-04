@@ -27,7 +27,7 @@ const Main = createStackNavigator(
   },
 
   {
-    initialRouteName: 'Home2',
+    initialRouteName: 'Home',
     navigationOptions: {
       title: 'TyC Sports',
       headerTitleAllowFontScaling: true,
@@ -37,7 +37,7 @@ const Main = createStackNavigator(
       },
       headerTintColor: '#fff',
       headerTitleStyle: {
-        //fontWeight: 'bold'
+        fontWeight: 'bold'
       },
       //headerBackground : 'blue',
       //headerBackTitle: 'Atras',
@@ -45,14 +45,14 @@ const Main = createStackNavigator(
       //headerBackImage: <Text>{`<=`}</Text>,
       // header: <Text style={{color: 'white'}}>esto es un header</Text>,
     },
-    initialRouteKey: 'home2',
+    initialRouteKey: 'home',
     initialRouteParams: {
       nombre: 'Jorge Buitrago'
     },
     // headerMode: float screen none
     // headerMode: 'screen',
     // mode: modal card
-    mode: 'card',
+    //mode: 'card',
     cardStyle: {
       borderWidth: 0,
       //backgroundColor: '#003984'
@@ -117,9 +117,9 @@ const DrawerNavigator = createDrawerNavigator(
         //drawerIcon: <Icon icon="🏠" />
       }
     } ,
-    About: {
+    /*About: {
         screen: About
-    },
+    },*/
     Movie: {
       screen: Movie
     },

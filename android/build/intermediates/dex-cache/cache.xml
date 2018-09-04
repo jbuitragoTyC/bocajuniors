@@ -219,6 +219,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/jbuitrago/ReactNative/bocajuniors/node_modules/react-native-video/android-exoplayer/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f41b41234fe052811afb9a16f9b362d3d7011737">
+        <dex dex="/home/jbuitrago/ReactNative/bocajuniors/android/app/build/intermediates/pre-dexed/debug/classes_ea71f6c7a85a1fe1a681a4c9194d0800b790cac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/jbuitrago/.android/build-cache/827bdd4788ed8ab4326c903b9c8430ac8cd5eb92/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
